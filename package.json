@@ -1,0 +1,24 @@
+{
+  "name": "cordova-plugin-applepay",
+  "version": "5.0.0",
+  "description":
+  "An adapted Cordova plugin to provide Apple Pay functionality.",
+  "main": "www/applepay.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baryl348/cordova-apple-pay.git"
+  },
+  "keywords": [
+    "cordova",
+    "apple",
+    "pay",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": {
+    "name": ""
+  },
+
+  "license": "Apache-2.0"
+}
